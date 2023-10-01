@@ -1,7 +1,31 @@
 ﻿using bootcamp_dotnet_cs.Models;
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual);
+Calculadora calc = new Calculadora();
+
+// calc.Somar(5, 5);
+// calc.Subtrair(10, 50);
+// calc.Dividir(20, 20);
+// calc.Multiplicar(10, 10);
+// calc.Potencia(3, 3);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+
+// int numero = 10;
+
+// Console.WriteLine(numero);
+
+// Console.WriteLine("Decrementando o 10");
+// // numero = numero + 1;
+// numero--;
+
+// Console.WriteLine(numero);
+
+
+// DateTime dataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(dataAtual);
 
 // string apresentacao = "Olá, seja bem vindo!";
 
