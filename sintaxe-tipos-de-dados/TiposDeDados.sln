@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootcamp-dotnet-cs", "bootcamp-dotnet-cs.csproj", "{FF4C7E82-4974-4828-8FDA-5B46ED7C43DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados.Common", "TiposDeDados.Common\TiposDeDados.Common.csproj", "{F617C396-7A75-4838-B146-141C4BBFAD2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4C7E82-4974-4828-8FDA-5B46ED7C43DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4C7E82-4974-4828-8FDA-5B46ED7C43DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4C7E82-4974-4828-8FDA-5B46ED7C43DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4C7E82-4974-4828-8FDA-5B46ED7C43DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F617C396-7A75-4838-B146-141C4BBFAD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F617C396-7A75-4838-B146-141C4BBFAD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F617C396-7A75-4838-B146-141C4BBFAD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F617C396-7A75-4838-B146-141C4BBFAD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
