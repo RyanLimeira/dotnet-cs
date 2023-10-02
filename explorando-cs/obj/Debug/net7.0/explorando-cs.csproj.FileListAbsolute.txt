@@ -1,0 +1,14 @@
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.AssemblyInfoInputs.cache
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.AssemblyInfo.cs
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.csproj.CoreCompileInputs.cache
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\bin\Debug\net7.0\explorando-cs.exe
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\bin\Debug\net7.0\explorando-cs.deps.json
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\bin\Debug\net7.0\explorando-cs.runtimeconfig.json
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\bin\Debug\net7.0\explorando-cs.dll
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\bin\Debug\net7.0\explorando-cs.pdb
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.dll
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\refint\explorando-cs.dll
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.pdb
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\explorando-cs.genruntimeconfig.cache
+C:\Users\limei\OneDrive\Documentos\bootcamp-dotnet-cs\explorando-cs\obj\Debug\net7.0\ref\explorando-cs.dll
